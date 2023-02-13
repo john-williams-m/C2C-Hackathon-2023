@@ -1,0 +1,10 @@
+.links {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    margin: '1rem';
+}
+
+.linksActive {
+    color: #E8FC07
+}
