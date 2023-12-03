@@ -38,7 +38,7 @@ export default function Home() {
     const theme = useTheme()
     const NonMobileScreenSize = useMediaQuery('(min-width: 900px)')
 
-    const deadlineDate = new Date("2023-11-25").getTime()
+    const deadlineDate = new Date("2024-02-28").getTime()
 
     return (
         <Container maxWidth={'xl'} sx={{
